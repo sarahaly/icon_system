@@ -1,0 +1,12 @@
+<svg id="coffee_icon" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 193.43 298.5">
+  <title>coffee_icon</title>
+  <g>
+    <polygon points="168.71 284 26.71 284 13.71 36 181.71 36 168.71 284" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+    <polygon points="165.33 298 30.09 298 26.71 284 168.71 285.33 165.33 298" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+    <polygon points="192.71 35 0.71 35 4.71 24 188.71 24 192.71 35" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+    <polygon points="183.71 24 8.71 23 10.71 12 181.71 12 183.71 24" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+    <polygon points="172.71 223 23.71 228 9.71 97 185.71 97 172.71 223" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+    <text transform="translate(64.14 171.15)" font-size="19.73" fill="#fff" stroke="#000" font-family="Zapfino, Zapfino">Café</text>
+  </g>
+  <polygon points="40.21 12.5 10.21 12.5 12.21 0.5 40.21 0.5 40.21 12.5" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+</svg>

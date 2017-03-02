@@ -1,0 +1,11 @@
+body{
+  padding: 50px;
+  background-color: tan;
+  color: green;
+}
+svg.cups{
+  fill:currentColor;
+  height: 300px;
+  width: 300px;
+  fill-stroke: green;
+}
